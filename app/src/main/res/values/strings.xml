@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MobileApp</string>
+    <string name="click_me">Click Me</string>
+    <string name="img_description">This is a image</string>
+    <string name="home_text">Home</string>
+    <string name="contacts_text">Contacts</string>
+    <string name="about_us_text">About us</string>
+    <string name="courses_text">Courses</string>
+    <string name="app_text">App</string>
+
+</resources>
