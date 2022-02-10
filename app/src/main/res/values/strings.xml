@@ -8,4 +8,11 @@
     <string name="courses_text">Courses</string>
     <string name="app_text">App</string>
 
+    <!-- course_item.xml template strings -->
+    <string name="course_start_date">Start learning:</string>
+    <string name="course_level">Level:</string>
+
+
+
+
 </resources>

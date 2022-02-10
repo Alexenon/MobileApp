@@ -43,7 +43,7 @@ public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.Catego
         return categoryList.size();
     }
 
-    public static class CategoryViewHolder extends RecyclerView.ViewHolder{
+    public final static class CategoryViewHolder extends RecyclerView.ViewHolder{
 
         TextView categoryTitle;
 

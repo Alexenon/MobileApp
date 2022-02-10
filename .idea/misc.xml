@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Alex/Programming/Java/MobileApp/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Alex/Programming/Java/MobileApp/app/src/main/res/drawable/ic_card_java.xml" value="0.141" />
+        <entry key="..\:/Alex/Programming/Java/MobileApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Alex/Programming/Java/MobileApp/app/src/main/res/layout/category_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/Alex/Programming/Java/MobileApp/app/src/main/res/layout/course_item.xml" value="0.33" />
       </map>
     </option>
   </component>
